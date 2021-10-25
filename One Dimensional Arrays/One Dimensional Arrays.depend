@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1631351514 source:d:\data structure mysirg.com\datastructure codeblocks\arrays\one dimensional arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1631352216 source:d:\data structure mysirg.com\datastructure codeblocks\arrays\one dimensional arrays\arraytesting.c
+	<stdio.h>
+
+1631359173 source:d:\data structure mysirg.com\datastructure codeblocks\arrays\one dimensional arrays\processingarrays.c
+	<stdio.h>
+
+1631355363 source:d:\data structure mysirg.com\datastructure codeblocks\arrays\one dimensional arrays\arrayinsilation.c
+	<stdio.h>
+
+1631356049 source:d:\data structure mysirg.com\datastructure codeblocks\arrays\one dimensional arrays\copy_one_arr_to_second_arr.c
+	<stdio.h>
+
+1631358143 source:d:\data structure mysirg.com\datastructure codeblocks\arrays\one dimensional arrays\sumofindivisualvalues.c
+	<stdio.h>
+
+1631359883 source:d:\data structure mysirg.com\datastructure codeblocks\arrays\one dimensional arrays\reverse_arrays.c
+	<stdio.h>
+
+1631361772 source:d:\data structure mysirg.com\datastructure codeblocks\arrays\one dimensional arrays\arrays_fun_arg.c
+	<stdio.h>
+
